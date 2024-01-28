@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [Here!!](https://drive.google.com/file/d/1D3CILXVU1PvWuWR2ZBvANDw1gVeC6L2x/view?usp=drive_link)
 
-- ⚡ Fun fact **I've good some good connections😉**
+- ⚡ Fun fact **I've some good connections😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
