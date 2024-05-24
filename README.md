@@ -1,4 +1,4 @@
-![headbanner]([https://github.com/](https://github.com/krishundre/krishundre/blob/main/ReadmeBanner.gif))
+![headbanner](https://github.com/krishundre/krishundre/blob/main/ReadmeBanner.gif)
 
 <h1 align="center">Hi 👋, I'm Krish Undre aka Mouse</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
