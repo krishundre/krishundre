@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Krish Undre aka Mouse</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://github.com/krishundre/krishundre/blob/main/Readme.gif" alt="GIF" width="140" height="140" align="center">
 - 🔭 I’m currently working on <a href="https://github.com/krishundre/a2a_mw" target="_blank">Aero2Astro Website</a> <br>
 - 👯 I’m looking to collaborate on <a href="https://github.com/krishundre/LinkersProject" target="_blank">Linkers' Project</a> <br>
 - 🌱 I’m currently learning <strong>ReactJS</strong> <br>
