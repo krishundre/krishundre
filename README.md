@@ -6,7 +6,7 @@
 <br>
 
 - 📫 How to reach me **krisundre@gmail.com**
-- 👨‍💻 All of my projects are available at **https://krishundre.vercel.app/**
+- 👨‍💻 All of my projects are available on <a href="https://krishundre.vercel.app/" target="_blank">My Website </a>
 - 📄 Know about my experiences <a href="https://krishundre.vercel.app/Krish's%20Resume.pdf" target="_blank">Here!</a>
 
 <div> <a href="https://twitter.com/KrisUndre" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
