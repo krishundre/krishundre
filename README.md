@@ -1,3 +1,4 @@
+<img src="https://github.com/krishundre/krishundre/blob/main/Readme.gif">
 <h1 align="center">Hi 👋, I'm Krish Undre aka Mouse</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 - 🔭 I’m currently working on <a href="https://github.com/krishundre/a2a_mw" target="_blank">Aero2Astro Website</a> <br>
