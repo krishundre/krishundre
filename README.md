@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **krisundre@gmail.com**
 - 👨‍💻 All of my projects are available at **https://krishundre.vercel.app/**
-- 📄 Know about my experiences **https://krishundre.vercel.app/Krish's%20Resume.pdf**
+- 📄 Know about my experiences <a href="https://krishundre.vercel.app/Krish's%20Resume.pdf" target="_blank">Here!</a>
 
 <div> <a href="https://twitter.com/KrisUndre" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/krish-undre" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
