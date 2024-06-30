@@ -48,10 +48,3 @@
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=krishundre&theme=dark" alt="krishundre" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="left">Statistics</h3>
-<div align="center">
-<a href="https://github.com/krishundre">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishundre&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krishundre&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishundre&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishundre&theme=dark" height="180em" />
-</div>
