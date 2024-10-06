@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Krish Undre aka Mouse</h1>
 <h3 align="center">A passionate <strong>Frontend Developer</strong> from India</h3>
-- 🔭 I’m currently working on <a href="https://github.com/krishundre/a2a_mw" target="_blank">Aero2Astro Website</a> <br>
+- 🔭 I’m currently working on Invoiceji <br>
 - 👯 I’m looking to collaborate on <a href="https://github.com/krishundre/LinkersProject" target="_blank">Linkers' Project</a> <br>
 - 🌱 I’m currently learning <strong>ReactJS</strong> <br>
 <br>
